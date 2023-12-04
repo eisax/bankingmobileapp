@@ -1,6 +1,8 @@
 # zwmb
 
-A new Flutter project.
+Zimbabwe Womens Microfinance Bank MVP mobile app
+
+
 
 ## Getting Started
 
